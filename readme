@@ -1,0 +1,5 @@
+1-Add Hibernate config
+2-Add properties
+3-DAO class with @Repository
+4-Service methods @transactional
+5-Entitiy class needs to be scanned in hibernate
