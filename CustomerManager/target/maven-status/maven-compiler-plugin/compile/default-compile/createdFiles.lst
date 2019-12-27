@@ -1,0 +1,9 @@
+johnabbott\session7\configuration\WebMvcConfig.class
+johnabbott\session7\service\CustomerServiceImpl.class
+johnabbott\session7\model\Customer.class
+johnabbott\session7\dao\CustomerDAOImpl.class
+johnabbott\session7\dao\CustomerDAO.class
+johnabbott\session7\service\CustomerService.class
+johnabbott\session7\configuration\WebAppInitializer.class
+johnabbott\session7\configuration\HibernateConfiguration.class
+johnabbott\session7\controller\CustomerController.class
